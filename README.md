@@ -4,3 +4,4 @@
 - Information Technology
 - Institute of Vacational Education - Central Region 5
 - [My Link](HelloWorld)
+- [My Card](NewYearCard)
