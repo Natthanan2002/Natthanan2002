@@ -4,7 +4,7 @@ BASE64 (เบส 64) คือ วิธีการเข้ารหัสข
 - Table ASCII - Binary Character (เทเบิ้ล แอสกี้ ไบนารี่ ชาเรคเจอร์)
 ![image](img/Table%20ASCII%20-%20Binary%20Character.png)
 
-/- Table BASE64  (เทเบิ้ลเบส 64)
+- Table BASE64  (เทเบิ้ลเบส 64)
 ![image](img/Table%20base64.png)
 
 ---
