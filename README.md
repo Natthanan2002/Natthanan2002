@@ -1,7 +1,7 @@
 ![image](img/messageImage_1698399189629.jpg)
 ---
 ### Natthanan Petdonthong
-theme: jekyll-theme-THEME-NAME
+theme: jekyll-theme-minimal
 - Information Technology
 - Institute of Vacational Education - Central Region 5
 - [My Link](HelloWorld)
