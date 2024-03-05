@@ -14,8 +14,8 @@
 
 ## Certificates
 
-- [Course Completion -Introduction to Cybersecurity](Introduction_to_Cybersecurity)
+- [Cisco Networking Academy -Introduction to Cybersecurity](Introduction_to_Cybersecurity)
 
 ## Badges
 
-- [Course Completion -Introduction to Cybersecurity](BadgeOne)
+- [Cisco Networking Academy -Introduction to Cybersecurity](BadgeOne)
