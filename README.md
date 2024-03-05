@@ -15,6 +15,7 @@
 ## Certificates
 
 - [Cisco Networking Academy -Introduction to Cybersecurity](Introduction_to_Cybersecurity)
+- [Fortinat Training Institute -FCF - Introduction to the Threat Landscape 2.0 Self-Paced](Course_Completion_Certificate)
 
 ## Badges
 
