@@ -11,3 +11,11 @@
 - [Honey Pot](HoneyPot)
 - [Non-Repudiation](Non-Repudiation)
 - [PDPA](PDPA)
+
+## Certificates
+
+- [Course Completion -Introduction to Cybersecurity](Introduction_to_Cybersecurity)
+
+## Badges
+
+- [Course Completion -Introduction to Cybersecurity](BadgeOne)
