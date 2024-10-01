@@ -22,3 +22,4 @@
 - [Cisco Networking Academy -Introduction to Cybersecurity](BadgeOne)
 - [KickOff Predictive](KickOff)
 - [KickOff Agile](KickOff2)
+- [Generative AI Overview for Project Managers](GenerativeAI)
