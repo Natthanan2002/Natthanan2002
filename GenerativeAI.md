@@ -1,0 +1,1 @@
+![image](img/generative-ai-overview-for-project-managers.png)
