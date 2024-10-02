@@ -5,6 +5,7 @@
 
 - Information Technology
 - Institute of Vacational Education - Central Region 5
+- [My Credly ID](Credy)
 - [My Link](HelloWorld)
 - [My Card](NewYearCard)
 - [Base64](Base64)
@@ -20,6 +21,6 @@
 ## Badges
 
 - [Cisco Networking Academy -Introduction to Cybersecurity](BadgeOne)
-- [KickOff Predictive](KickOff)
-- [KickOff Agile](KickOff2)
+- [Fundamentals of Predictive Project Management](KickOff)
+- [Fundamentals of Agile Project Management](KickOff2)
 - [Generative AI Overview for Project Managers](GenerativeAI)
