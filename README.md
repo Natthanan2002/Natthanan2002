@@ -13,6 +13,8 @@
 - [Non-Repudiation](Non-Repudiation)
 - [PDPA](PDPA)
 
+site is live at https://natthanan2002.github.io/
+
 ## Certificates
 
 - [Cisco Networking Academy -Introduction to Cybersecurity](Introduction_to_Cybersecurity)
