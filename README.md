@@ -5,7 +5,7 @@
 
 - Information Technology
 - Institute of Vacational Education - Central Region 5
-- [My Credly ID](Credy)
+- [My Credly ID](https://www.credly.com/users/natthanan2002)
 - [My Link](HelloWorld)
 - [My Card](NewYearCard)
 - [Base64](Base64)
